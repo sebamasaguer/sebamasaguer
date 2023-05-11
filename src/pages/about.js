@@ -6,13 +6,13 @@ import Image from "../components/image"
 
 const AboutPage = () => (
   <Layout>
-    <SEO title="About" />
+    <SEO title="Yo" />
     <section className="about">
       <div className="container">
         {/* + Title */}
         <div className="row mt-4 justify-content-center">
           <div className="col-lg-7 col-sm-12 my-auto headline">
-            <h1>My mini autobiography~</h1>
+            <h1>Me presento</h1>
           </div>
         </div>
         {/* - Title */}
@@ -24,20 +24,21 @@ const AboutPage = () => (
               <div className="card-body">
                 <div className="card-title">
                   <h2>
-                    Hi there!
+                    
+                    Hola a todos!!
                     <span role="img" aria-label="Happy face">
                       😊
                     </span>
                   </h2>
-                  <h3>an introduction</h3>
+                  <h3>para empezar</h3>
                 </div>
 
                 <div className="card-text">
-                  Cupcake ipsum dolor sit amet sweet roll ice cream cheesecake
-                  chocolate. Lemon drops gummi bears biscuit. Pie gingerbread
-                  tart tootsie roll donut cheesecake. Muffin pie gingerbread
-                  dragée pudding tart tootsie roll.
-                </div>
+                  Soy Sebastian, vivo en Salta Argentina, tengo 39 años, estoy casado y tengo dos hijas.
+                  Me gusta aprender, soy bueno resolviendo problemas, el dessarrollo web es mi camino, tambien me gusta cocinar(si es a las brazas mejor).
+                  Tengo mi impresora 3d hago mis personajes preferidos y luego los pinto a mano.
+                  
+                                  </div>
               </div>
             </div>
           </div>
@@ -46,8 +47,8 @@ const AboutPage = () => (
           {/* + Image */}
           <div className="col-lg-6 my-auto mx-auto">
             <Image
-              fileName="about.jpg"
-              alt="About page"
+              fileName="me.jpg"
+              alt="familia"
               className="about-img-wrapper"
             />
           </div>
@@ -58,17 +59,13 @@ const AboutPage = () => (
             <div className="card shadow-sm">
               <div className="card-body">
                 <div className="card-title">
-                  <h2>More about me</h2>
-                  <h3>sweet and sweeter</h3>
+                  <h2>Un poquito mas..</h2>
+                  <h3>La Familia ante todo</h3>
                 </div>
 
                 <div className="card-text">
-                  Bonbon chocolate bar ice cream brownie ice cream macaroon
-                  halvah. Toffee tart chupa chups ice cream croissant jujubes
-                  lollipop. Dragée jelly beans sesame snaps wafer muffin sesame
-                  snaps topping bonbon ice cream. Macaroon cake biscuit gummies
-                  sweet sweet chocolate cake. Danish sweet roll carrot cake
-                  croissant. Donut chocolate cake jelly beans.
+                  Mi esposa se llama Cecila y tenemos una relacion de hace mas de 10 años, es mi compañera de ruta, nuestras pequeñas Victoria y Sara son mi motor, 
+                  me gusta mucho verlas crecer, jugar y divertirce, me sorprenden dia a dia.
                 </div>
               </div>
             </div>

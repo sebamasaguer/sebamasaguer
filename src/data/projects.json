@@ -1,32 +1,20 @@
 [
   {
-    "project": "Project Sample #1",
-    "language": "NodeJS",
-    "description": "A short description about the project.",
-    "link": "https://github.com/"
+    "project": "Registro de Expedientes",
+    "language": "Php Codeigniter",
+    "description": "Gestion de expedientes inspecciones y multas de policia de trabajo.Secretaria de Trabajo",
+    "link": "#"
   },
   {
-    "project": "Project Sample #2",
-    "language": "VueJS",
-    "description": "A short description about the project.",
-    "link": "https://github.com/"
+    "project": "Pagina oficial Secretaria de trabajo",
+    "language": "Joomla",
+    "description": "Página informativa",
+    "link": "Trabajo.salta.gob.ar"
   },
   {
-    "project": "Project Sample #3",
-    "language": "Python",
-    "description": "A short description about the project.",
-    "link": "https://github.com/"
-  },
-  {
-    "project": "Project Sample #4",
-    "language": "Java",
-    "description": "A short description about the project.",
-    "link": "https://github.com/"
-  },
-  {
-    "project": "Project Sample #5",
-    "language": "NodeJS",
-    "description": "A short description about the project.",
-    "link": "https://github.com/"
+    "project": "Porfolio",
+    "language": "Gatsby.js",
+    "description": "Porfolio personal",
+    "link": "#"
   }
 ]

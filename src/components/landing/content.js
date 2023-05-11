@@ -44,33 +44,30 @@ export default class Content extends Component {
                 {/* + Job subsection */}
                 <div className="subsection">
                   <h2>
-                    <span className="dot"></span>What do I{" "}
-                    <span className="word">do</span>?
+                    <span className="dot"></span>Trabajo{" "}
+                    <span className="word">en</span>
                   </h2>
 
                   <div className="card">
                     <div className="card-body">
                       <div className="card-title">
-                        <h3>Eagle Jump Co. Ltd.</h3>
+                        <h3>Subsecretaría de Tecnologías de la Información y la Comunicación.</h3>
                         <h4>
                           <FontAwesomeIcon
                             icon={faBriefcase}
                             className="mr-2"
                           />{" "}
-                          Software Developer
+                          Desarrollador Web.
                         </h4>
                         <h4>
                           <FontAwesomeIcon icon={faCalendar} className="mr-2" />{" "}
-                          Jun 2010 - Present
+                          Noviembre 2022 - Presente
                         </h4>
                       </div>
 
                       <div className="card-text">
-                        ◆ I work with Japan's biggest JRPG titles, Fairies
-                        Story. I oversee the software development involving the
-                        characters in the game.
-                        <br />◆ I also lead the testers of the game in its alpha
-                        and beta releases.
+                        ◆ Trabajo en realizar nuevos modulos y funcionalidades de distintos sistemas.
+                        <br />◆ Relizo correccion de errores, genero informes y actualizaciones. 
                       </div>
                     </div>
                   </div>
@@ -80,8 +77,8 @@ export default class Content extends Component {
                 {/* + Technologies subsection */}
                 <div className="subsection">
                   <h2 className="mt-5">
-                    <span className="dot"></span>What do I{" "}
-                    <span className="word">know</span>?
+                    <span className="dot"></span>Lo que conozco{" "}
+                    <span className="word">es</span>
                   </h2>
                   <div className="row">
                     {data.allLanguagesJson.edges.map(({ node }, index) => (
@@ -106,35 +103,32 @@ export default class Content extends Component {
                 {/* + School subsection */}
                 <div className="subsection">
                   <h2 className="mt-5">
-                    <span className="dot"></span>What did I{" "}
-                    <span className="word">study</span>?
+                    <span className="dot"></span>Estudio {" "}
+                    <span className="word">en</span>
                   </h2>
 
                   <div className="card">
                     <div className="card-body">
                       <div className="card-title">
-                        <h3>Tokyo Institute of Technology</h3>
+                        <h3>Soy Henry</h3>
                         <h4>
                           <FontAwesomeIcon
                             icon={faGraduationCap}
                             className="mr-2"
                           />
-                          Computer Science
+                          Desarrollador full stack
                         </h4>
                         <h4>
                           <FontAwesomeIcon
                             icon={faUserGraduate}
                             className="mr-2"
                           />{" "}
-                          Jan 2010
+                          Abril 2023 -  actualidad
                         </h4>
                       </div>
 
                       <div className="card-text">
-                        I earned my Bachelor's Degree in Computer Science in
-                        Tokyo Institute of Technology. For my undergraduate
-                        thesis, I wrote this model motion development through
-                        convolutional neural networks.
+                        
                       </div>
                     </div>
                   </div>
@@ -144,8 +138,8 @@ export default class Content extends Component {
                 {/* + Projects subsection */}
                 <div className="subsection">
                   <h2 className="mt-5">
-                    <span className="dot"></span>What have I{" "}
-                    <span className="word">experimented with</span>?
+                    <span className="dot"></span>Tengo experiencia {" "}
+                    <span className="word">en</span>
                   </h2>
                   <div className="row">
                     {data.allProjectsJson.edges.map(({ node }, index) => (
