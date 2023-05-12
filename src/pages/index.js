@@ -7,7 +7,7 @@ import Content from "../components/landing/content"
 
 const IndexPage = () => (
   <Layout>
-    <SEO title="Home" />
+    <SEO title="Inicio" />
     <Hero />
     <Content />
   </Layout>

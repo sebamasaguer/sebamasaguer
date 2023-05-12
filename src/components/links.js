@@ -6,6 +6,7 @@ import {
   faTwitter,
   faGithub,
   faLinkedin,
+  faWhatsapp
 } from "@fortawesome/free-brands-svg-icons"
 
 export default function Links() {
@@ -49,6 +50,17 @@ export default function Links() {
           alt="twitter link"
         >
           <FontAwesomeIcon icon={faTwitter} />
+        </a>
+      </li>
+    
+      <li className="list-group-item">
+        <a
+          href="https://api.whatsapp.com/send?phone=5493874677270"
+          target="_blank"
+          rel="noreferrer"
+          alt="Whatsapp link"
+        >
+           <FontAwesomeIcon icon={faWhatsapp} />
         </a>
       </li>
     </ul>
