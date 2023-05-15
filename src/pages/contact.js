@@ -4,6 +4,7 @@ import SEO from "../components/seo"
 import Layout from "../components/layout"
 import Links from "../components/links"
 import contactimg from "../images/contactimg.svg"
+import Pdf from "../images/CV-SebastianMasaguer.pdf"
 
 const ContactPage = () => (
   <Layout>
@@ -14,7 +15,7 @@ const ContactPage = () => (
           <div className="col-md-8">
             <h1>Contacto</h1>
             <p>
-              Hola graciaspor visitar mi sitio. 
+              Gracias por visitar mi sitio. 
               Si tiene alguna consulta o comentario no dude en comunicarse. 
               Mis puntos de contacto son:
             </p>
@@ -28,11 +29,11 @@ const ContactPage = () => (
               <li>bases de datos</li>
               <li>Paginas web responsive</li>
             </ul>
-
+            
             <a
-              href="static/CV-SebastianMasaguer.pdf"
+              href={Pdf}
               className="main-button btn btn-primary shadow-sm mt-2"
-            >
+              download>
               Download mi Cv
             </a>
           </div>

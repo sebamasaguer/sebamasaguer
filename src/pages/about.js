@@ -35,7 +35,7 @@ const AboutPage = () => (
 
                 <div className="card-text">
                   Soy Sebastian, vivo en Salta Argentina, tengo 39 años, estoy casado y tengo dos hijas.
-                  Me gusta aprender, soy bueno resolviendo problemas, el dessarrollo web es mi camino, tambien me gusta cocinar(si es a las brazas mejor).
+                  Me gusta aprender, soy bueno resolviendo problemas, el desarrollo web es mi camino.
                   Tengo mi impresora 3d hago mis personajes preferidos y luego los pinto a mano.
                   
                                   </div>
@@ -62,11 +62,20 @@ const AboutPage = () => (
                   <h2>Un poquito mas..</h2>
                   <h3>La Familia ante todo</h3>
                 </div>
-
                 <div className="card-text">
                   Mi esposa se llama Cecila y tenemos una relacion de hace mas de 10 años, es mi compañera de ruta, nuestras pequeñas Victoria y Sara son mi motor, 
-                  me gusta mucho verlas crecer, jugar y divertirce, me sorprenden dia a dia.
+                  me gusta mucho verlas crecer, jugar y divertirse, me sorprenden dia a dia.
+                <br></br>
+                <br></br>
+                <h3>Haz el bien sin mirar a quien.</h3>
+        
+                Trabaje como voluntario 4 años en una ONG llamada <a
+                        href="https://www.argentina.techo.org" target="_blank"
+                        rel="noreferrer">Techo </a>
+                participando en varias contrucciones de viviendas de emergencia y una mesa de trabajo.
+                Coordine areas de trabajo y grupos de voluntarios.
                 </div>
+            
               </div>
             </div>
           </div>
