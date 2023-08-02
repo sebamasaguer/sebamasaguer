@@ -76,7 +76,7 @@ export default class Footer extends Component {
                         <FontAwesomeIcon icon={faLinkedin} />
                       </a>
                     </li>
-                    <li className="list-inline-item">
+                    <li className="list-inline-item mr-4">
                       <a
                         href="https://twitter.com/sebamasaguer"
                         target="_blank"
@@ -86,7 +86,7 @@ export default class Footer extends Component {
                         <FontAwesomeIcon icon={faTwitter} />
                       </a>
                     </li>
-                    <li className="list-inline-item">
+                    <li className="list-inline-item mr-4">
                        <a
                           href="https://api.whatsapp.com/send?phone=5493874677270"
                           target="_blank"

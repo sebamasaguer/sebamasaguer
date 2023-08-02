@@ -34,9 +34,10 @@ const AboutPage = () => (
                 </div>
 
                 <div className="card-text">
-                  Soy Sebastian, vivo en Salta Argentina, tengo 39 años, estoy casado y tengo dos hijas.
-                  Me gusta aprender, soy bueno resolviendo problemas, el desarrollo web es mi camino.
-                  Tengo mi impresora 3d hago mis personajes preferidos y luego los pinto a mano.
+                ¡Hola! Soy Sebastián, un apasionado del desarrollo web y la impresión 3D con sede en Salta, Argentina. Tengo 39 años y estoy casado, siendo padre orgulloso de dos hijas maravillosas.
+
+Desde siempre me ha fascinado el mundo de la tecnología y el aprendizaje constante. Disfruto enfrentando nuevos desafíos y resolviendo problemas de manera creativa y eficiente. Como profesional del desarrollo web, encuentro una satisfacción única en diseñar y crear soluciones digitales que hagan la vida de las personas más fácil y eficiente.
+
                   
                                   </div>
               </div>
@@ -63,12 +64,12 @@ const AboutPage = () => (
                   <h3>La Familia ante todo</h3>
                 </div>
                 <div className="card-text">
-                  Mi esposa se llama Cecila y tenemos una relacion de hace mas de 10 años, es mi compañera de ruta, nuestras pequeñas Victoria y Sara son mi motor, 
-                  me gusta mucho verlas crecer, jugar y divertirse, me sorprenden dia a dia.
+                Fuera del ámbito digital, tengo una pasión especial por la impresión 3D. Tengo mi propia impresora 3D, lo que me permite dar vida a mis personajes preferidos y crear objetos únicos.
+                Es una actividad que me permite desconectar y expresar mi lado más artístico.
                 <br></br>
                 <br></br>
                 <h3>Haz el bien sin mirar a quien.</h3>
-        
+                <br></br>
                 Trabaje como voluntario 4 años en una ONG llamada <a
                         href="https://www.argentina.techo.org" target="_blank"
                         rel="noreferrer">Techo </a>

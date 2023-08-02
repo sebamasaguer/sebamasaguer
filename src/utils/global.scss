@@ -21,9 +21,9 @@ body {
   -webkit-tap-highlight-color: transparent;
 
   // Link colors
-  --link-primary: #5a67d8;
-  --link-secondary: #3182ce;
-  --link-tertiary: #63b3ed;
+  --link-primary: #15d104be;
+  --link-secondary:#15d104be ;
+  --link-tertiary:#15d104be;
   --text-on-link: #ffffff;
 
   ::selection {
@@ -118,7 +118,7 @@ body.dark {
   --extra: #202229;
 
   // Text
-  --base: #ffffff;
+  --base: #15d104be;
   --contrast: #e5e5e5;
 }
 

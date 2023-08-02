@@ -9,12 +9,12 @@
     "project": "Pagina oficial Secretaria de trabajo",
     "language": "Joomla",
     "description": "Página informativa",
-    "link": "Trabajo.salta.gob.ar"
+    "link": "https:\\trabajo.salta.gob.ar"
   },
   {
-    "project": "Porfolio",
-    "language": "Gatsby.js",
-    "description": "Porfolio personal",
-    "link": "#"
+    "project": "Blog personal",
+    "language": "Worpress",
+    "description": "Blog personal de ideas y proyectos",
+    "link": "www.sebamasaguer.com.ar"
   }
 ]

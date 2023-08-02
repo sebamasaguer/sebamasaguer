@@ -20,11 +20,11 @@ export default function Hero() {
               </h1>
               <h1>Hola. Soy Seba</h1>
               <p>
-                Trabajo como desarrollador para el gobierno de Salta
+                Trabajo como desarrollador para el gobierno de provincia Salta, Argentina.
               </p>
               <Link
                 to="content"
-                className="main-button btn btn-primary shadow-sm"
+                className="main-button btn  shadow-sm"
                 smooth={true}
               >
                 Sobre mi
