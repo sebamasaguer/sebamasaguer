@@ -88,11 +88,11 @@ export default class Header extends Component {
                             <input
                               type="checkbox"
                               onChange={e =>
-                                toggleTheme(e.target.checked ? "light" : "dark")
+                                toggleTheme(e.target.checked ? "dark" : "light")
                               }
-                              checked={theme === "light"}
+                              checked={theme === "dark"}
                             />
-                            {theme === "light" ? (
+                            {theme === "dark" ? (
                               <div>
                                <span role="img" aria-label="Moon">
                                   🌚

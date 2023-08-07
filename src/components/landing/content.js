@@ -1,5 +1,5 @@
 import React, { Component } from "react"
-import { StaticQuery, graphql } from "gatsby"
+import { Link, StaticQuery, graphql } from "gatsby"
 
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome"
 import {
@@ -32,6 +32,8 @@ export default class Content extends Component {
                 node {
                   id
                   language
+                  link
+                  description
                 }
               }
             }
@@ -52,6 +54,7 @@ export default class Content extends Component {
                     <div className="card-body">
                       <div className="card-title">
                         <h3>Subsecretaría de Tecnologías de la Información y la Comunicación.</h3>
+                        <h6>Gobierno de la provincia de Salta-Argentina</h6>
                         <h4>
                           <FontAwesomeIcon
                             icon={faBriefcase}
@@ -69,8 +72,33 @@ export default class Content extends Component {
                         ◆ Trabajo en realizar nuevos modulos y funcionalidades de distintos sistemas.
                         <br />◆ Relizo correccion de errores, genero informes y actualizaciones. 
                       </div>
+                      
                     </div>
+                    <div className="card-body">
+                      <div className="card-title">
+                        <h3>Secretaría de Trabajo.</h3>
+                        <h6>Gobierno de la provincia de Salta-Argentina</h6>
+                        <h4>
+                          <FontAwesomeIcon
+                            icon={faBriefcase}
+                            className="mr-2"
+                          />{" "}
+                          Desarrollador Web - Informático.
+                        </h4>
+                        <h4>
+                          <FontAwesomeIcon icon={faCalendar} className="mr-2" />{" "}
+                          - Febrero 2011 -Noviembre 2022 
+                        </h4>
+                      </div>
+
+                      <div className="card-text">
+                        ◆ Trabajo en crecion y mantenimiento de sistemas web para la gestion de expedientes de multas.
+                  <br />◆ Mantenimineto de  pc y redes.
+                  <br />◆ Crecion pagina web Institucional.
+                      </div>
+                      </div>
                   </div>
+                  
                 </div>
                 {/* - Job subsection */}
 
@@ -110,6 +138,23 @@ export default class Content extends Component {
                   <div className="card">
                     <div className="card-body">
                       <div className="card-title">
+                        <h3>Instituto Del Milagro</h3>
+                        <h4>
+                          <FontAwesomeIcon
+                            icon={faGraduationCap}
+                            className="mr-2"
+                          />
+                          Técnico Analista de Sistemas
+                        </h4>
+                        <h4>
+                          <FontAwesomeIcon
+                            icon={faUserGraduate}
+                            className="mr-2"
+                          />{" "}
+                          Abril 2013 - 2016
+                        </h4>
+                      </div>
+                      <div className="card-title">
                         <h3>Soy Henry</h3>
                         <h4>
                           <FontAwesomeIcon
@@ -126,7 +171,6 @@ export default class Content extends Component {
                           Abril 2023 -  actualidad
                         </h4>
                       </div>
-
                       <div className="card-text">
                         
                       </div>

@@ -1,6 +1,8 @@
 [
   {
-    "language": "PHP"
+    "language": "PHP",
+    "description": "seba.jpg",
+    "link": ""
   },
   {
     "language": "Codeigniter"
@@ -9,13 +11,18 @@
     "language": "MySql"
   },
   {
+    "language": "PostgreSQL"
+  },
+  {
     "language": "Javascript"
   },
   {
     "language": "Node"
   },
   {
-    "language": "HTML"
+    "language": "React",
+    "description": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"  
+
   },
   {
     "language": "Joomla" 

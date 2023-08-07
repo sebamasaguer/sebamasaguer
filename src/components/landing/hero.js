@@ -18,9 +18,10 @@ export default function Hero() {
                   👋
                 </span>
               </h1>
-              <h1>Hola. Soy Seba</h1>
+              <h1>Hola!
+                Me llamo Seba</h1>
               <p>
-                Trabajo como desarrollador para el gobierno de provincia Salta, Argentina.
+        Soy desarrollador backend con mas de 5 años experiencia en desarrollo de aplicaciones web.
               </p>
               <Link
                 to="content"
@@ -59,7 +60,7 @@ export default function Hero() {
                     <br />
                   </h4>
                   <p className="card-text">
-                    desarrollador part-time,
+                    Desarrollador part-time,
                     <br />
                     Padre x2 Fulltime 
                   </p>
