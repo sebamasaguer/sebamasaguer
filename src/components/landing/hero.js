@@ -21,7 +21,7 @@ export default function Hero() {
               <h1>Hola!
                 Me llamo Seba</h1>
               <p>
-        Soy desarrollador backend con mas de 5 años experiencia en desarrollo de aplicaciones web.
+        Soy desarrollador Fullstack con 5 años experiencia en desarrollo de aplicaciones web.
               </p>
               <Link
                 to="content"
@@ -60,9 +60,9 @@ export default function Hero() {
                     <br />
                   </h4>
                   <p className="card-text">
-                    Desarrollador part-time,
+                    Desarrollador full-time,
                     <br />
-                    Padre x2 Fulltime 
+                   
                   </p>
                   <Links />
                 </div>
