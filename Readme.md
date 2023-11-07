@@ -7,7 +7,7 @@ Hola soy desarrollador fullstack especializado en aplicaciones web. Tengo experi
 
 <h3 align="left"> ⭐ Herramientas: </h3>
 <p>
-Lenguajes: Php | javaScript 
+Lenguajes: Php | javaScript <br>
   FrontEnd: React | Redux | HTML | CSS  <br>
   BackEnd: Node | Express | <br>
   Database: mysql| PostgreSQL | Sequelize <br>
