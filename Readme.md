@@ -9,8 +9,8 @@ Hola soy desarrollador fullstack especializado en aplicaciones web. Tengo experi
 <p>
 Lenguajes: Php | javaScript <br>
   FrontEnd: React | Redux | HTML | CSS  <br>
-  BackEnd: Node | Express | <br>
-  Database: mysql| PostgreSQL | Sequelize <br>
+  BackEnd: Node | Express | Sequelize <br>
+  Database: mysql| PostgreSQL |  <br>
   Comunicacion: slack | trello<br>
   Otras: Github | gitlab | postman | Docker<br>
 </p>
